@@ -1,5 +1,6 @@
 import {View, Text, StyleSheet, TextInput, TouchableOpacity, Image, ScrollView, Alert, KeyboardAvoidingView, Platform} from 'react-native';
 import { useState } from 'react';
+import "../global.css"
 
 // can't use html tags, use pre defined tags from react-native
 // div - View
